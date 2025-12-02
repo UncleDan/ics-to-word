@@ -50,4 +50,6 @@ Thumbs.db
 *.wmv
 
 # Project-specific files (secrets and info)
-.ics
+*.ics
+*.ical
+*,Calendar.docx

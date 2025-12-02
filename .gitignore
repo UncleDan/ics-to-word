@@ -52,4 +52,4 @@ Thumbs.db
 # Project-specific files (secrets and info)
 *.ics
 *.ical
-*,Calendar.docx
+*.Calendar.docx

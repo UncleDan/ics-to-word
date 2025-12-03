@@ -61,4 +61,8 @@ Thumbs.db
 # Project-specific files (secrets and info)
 *.ics
 *.ical
+*.calendar.google.com.Calendar.docx
+*.google.com.Calendar.docx
+*.com.Calendar.docx
 *.Calendar.docx
+*.docx
